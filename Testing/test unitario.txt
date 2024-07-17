@@ -2,3 +2,4 @@ Caso de prueba numero 1
 Test Unitario creado por desarrollo
 Caso de prueba numero 2
 Caso de prueba numero 3
+Resultado obtenido: ok
