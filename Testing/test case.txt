@@ -1,2 +1,0 @@
-test case nro 1
-equipo testing
